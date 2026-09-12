@@ -26,7 +26,7 @@ Folder Cleaner is a lightweight Windows application that automatically sorts you
 
 ## 📸 Screenshots
 
-Screenshots coming soon.
+![Folder Cleaner](folder-cleaner-main.png)
 
 ## 📦 Version
 
